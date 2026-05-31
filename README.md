@@ -3,6 +3,7 @@
 
 A fully functional, responsive web-based calculator built from scratch using vanilla web technologies. Featuring a custom tokenized string parser that respects mathematical order of operations (PEMDAS), defensive boundary constraints, and dynamic CSS styling.
 
+https://courius.github.io/casio-memoir-calculator/
 ---
 
 ## 🌟 The Story Behind the Project
